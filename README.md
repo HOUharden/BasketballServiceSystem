@@ -1,5 +1,6 @@
 # BasketballServiceSystem
 # 联系方式
+QQ:2380469885
 <img width="137" height="197" alt="image" src="https://github.com/user-attachments/assets/427548e6-e0de-4b14-932e-9fd1a79ebd6a" />
 
 # 项目介绍
